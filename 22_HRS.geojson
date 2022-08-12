@@ -9,6 +9,7 @@
 { "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -99.444401, 44.578381 ] } },
 { "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -99.994822, 44.465487 ] } },
 { "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -100.090189, 43.289423 ] } },
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -98.379249, 44.207237 ] } }
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -98.379249, 44.207237 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -100.068105, 45.435718 ] } }
 ]
 }
