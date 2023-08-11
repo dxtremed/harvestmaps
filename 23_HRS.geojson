@@ -1,7 +1,9 @@
 {
 "type": "FeatureCollection",
 "name": "23_HRS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -99.989662, 44.729609 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ -100.074535, 43.88558 ] } }
 ]
 }
