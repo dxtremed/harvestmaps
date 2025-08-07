@@ -1,7 +1,8 @@
 {
 "type": "FeatureCollection",
 "name": "25_SWW",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
 "features": [
-
+{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 9.1 }, "geometry": { "type": "Point", "coordinates": [ -84.216701, 43.165114 ] } }
 ]
 }
