@@ -118,6 +118,9 @@
 { "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 9.5 }, "geometry": { "type": "Point", "coordinates": [ -88.041902, 42.70649 ] } },
 { "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 9.1 }, "geometry": { "type": "Point", "coordinates": [ -88.190402, 44.002523 ] } },
 { "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 9.4 }, "geometry": { "type": "Point", "coordinates": [ -82.138048, 40.070316 ] } },
-{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 8.7 }, "geometry": { "type": "Point", "coordinates": [ -84.216701, 43.165114 ] } }
+{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 9.6 }, "geometry": { "type": "Point", "coordinates": [ -82.138048, 40.070316 ] } },
+{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 8.7 }, "geometry": { "type": "Point", "coordinates": [ -84.216701, 43.165114 ] } },
+{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 8.7 }, "geometry": { "type": "Point", "coordinates": [ -88.190402, 44.002523 ] } },
+{ "type": "Feature", "properties": { "Wheat_Protein_WGA_12_MB": 9.1 }, "geometry": { "type": "Point", "coordinates": [ -84.220786, 43.414854 ] } }
 ]
 }
